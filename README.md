@@ -144,3 +144,17 @@ Copyright © 2026 intro773-ctrl. All rights reserved.
 - **Website:** https://promise-myself.tilda.ws/
 - **Telegram Bot:** @I_promise_myself_bot (https://telegram.me/I_promise_myself_bot)
 - **Support:** @PromiseMyself_Support
+
+---
+
+## 📸 SCREENSHOTS
+
+<p align="center">
+  <img src="screenshot-language.jpg" width="200" alt="Language selection">
+  <img src="screenshot-about1.jpg" width="200" alt="About the project">
+  <img src="screenshot-add-promise4.jpg" width="200" alt="Add a promise">
+  <img src="screenshot-results.jpg" width="200" alt="Evening report">
+  <img src="screenshot-history.jpg" width="200" alt="History & community">
+</p>
+
+📸 [See more screenshots →](docs/screenshots.md)
