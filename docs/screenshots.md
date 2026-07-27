@@ -15,4 +15,4 @@
 
 <img src="../screenshot-set-reminder-time.jpg" width="300">
 <img src="../screenshot-set-evening-time.jpg" width="300">
-<img src="../screenshot-saved_times.jpg" width="300">
+<img src="../screenshot-saved-times.jpg" width="300">
