@@ -144,6 +144,7 @@ Copyright © 2026 intro773-ctrl. All rights reserved.
 - **Website:** https://promise-myself.tilda.ws/
 - **Telegram Bot:** @I_promise_myself_bot (https://telegram.me/I_promise_myself_bot)
 - **Support:** @PromiseMyself_Support
+- **Top Telegram Bots Listing:** [View on TopTelegramBots](https://toptelegrambots.com/list/I_promise_myself_bot)
 
 ---
 
