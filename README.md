@@ -4,7 +4,7 @@
 ![aiogram](https://img.shields.io/badge/aiogram-3.x-2CA5E0?logo=telegram)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL%20%2F%20Supabase-336791?logo=postgresql)
 ![Paddle](https://img.shields.io/badge/Payments-Paddle-blueviolet)
-![Languages](https://img.shields.io/badge/Languages-6-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-7-brightgreen)
 
 A Telegram bot for tracking and breaking bad habits, building new useful habits and skills, with support for 7+ languages.
 
