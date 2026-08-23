@@ -6,7 +6,7 @@
 ![Paddle](https://img.shields.io/badge/Payments-Paddle-blueviolet)
 ![Languages](https://img.shields.io/badge/Languages-6-brightgreen)
 
-A Telegram bot for tracking and breaking bad habits, building new useful habits and skills, with support for 6+ languages.
+A Telegram bot for tracking and breaking bad habits, building new useful habits and skills, with support for 7+ languages.
 
 👉 **[Try the bot: @I_promise_myself_bot](https://telegram.me/I_promise_myself_bot)**
 
@@ -21,6 +21,7 @@ A Telegram bot for tracking and breaking bad habits, building new useful habits 
 | `fr` | Français | 🇫🇷 |
 | `es` | Español | 🇪🇸 |
 | `pt` | Português | 🇵🇹 |
+| `it` | Italiano | 🇮🇹 |
 | `ru` | Русский | 🇷🇺 |
 
 *+ new languages under development*
