@@ -23,8 +23,9 @@ A Telegram bot for tracking and breaking bad habits, building new useful habits 
 | `pt` | Português | 🇵🇹 |
 | `it` | Italiano | 🇮🇹 |
 | `ru` | Русский | 🇷🇺 |
-
-*+ new languages under development*
+| `tr` | Türkçe | 🇹🇷 |
+| `hi` | हिन्दी | 🇮🇳 |
+| `ar` | العربية | 🇸🇦 |
 
 ---
 
