@@ -99,7 +99,7 @@ Use the bot regularly, and you'll succeed!
 - **Database:** PostgreSQL via Supabase
 - **Payments:** Paddle (Merchant of Record)
 - **Hosting:** DigitalOcean VPS (systemd services)
-- **i18n:** Custom translation layer, 6 languages
+- **i18n:** Custom translation layer, 10 languages
 
 ---
 
